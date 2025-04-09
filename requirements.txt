@@ -1,0 +1,12 @@
+pandas
+numpy
+torch
+hdbscan
+sentence-transformers
+transformers
+scikit-learn
+rouge-score
+hazm
+sentencepiece
+scipy
+prettytable
